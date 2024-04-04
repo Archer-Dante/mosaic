@@ -56,4 +56,5 @@ Tested with:
 *   Pillow==5.1.0
 *   scikit-image==0.14.1
 
+Forked from: https://github.com/naveen4rawat/python-photo-mosaic/tree/mycontri
 
